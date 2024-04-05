@@ -39,7 +39,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`ID`, `admin_username`, `admin_fullname`, `admin_password`) VALUES
-(1, 'inozrh', 'Nurina Zahirah', '590dbdf04b79090fd0d09535ae63036b'),
+(1, 'frzna', 'NurulFarzana', '590dbdf04b79090fd0d09535ae63036b'),
 (2, 'admin', 'admin', '21232f297a57a5a743894a0e4a801fc3'),
 (9, 'admin2', 'admin2', '21232f297a57a5a743894a0e4a801fc3'),
 (15, 'admin3', 'admin3', 'fc1ebc848e31e0a68e868432225e3c82'),
